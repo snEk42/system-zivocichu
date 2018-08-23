@@ -1,0 +1,19 @@
+{
+  "name": "system-zivocichu",
+  "version": "1.0.0",
+  "description": "Skript pro import tridy a celede k latinskym nazvum zivocichu.",
+  "main": "import.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snEk42/system-zivocichu.git"
+  },
+  "author": "Jiri Erhart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snEk42/system-zivocichu/issues"
+  },
+  "homepage": "https://github.com/snEk42/system-zivocichu#readme"
+}
