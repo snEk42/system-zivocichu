@@ -3,3 +3,10 @@ node_modules/
 .idea
 .vscode/
 .env
+
+filled.xlsx
+~$filled.xlsx
+data.xlsx
+~$data.xslx
+
+ITIS.sqlite

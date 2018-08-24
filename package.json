@@ -1,7 +1,7 @@
 {
   "name": "system-zivocichu",
   "version": "1.0.0",
-  "description": "Skript pro import tridy a celede k latinskym nazvum zivocichu.",
+  "description": "Taxonomic units import script",
   "main": "import.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/snEk42/system-zivocichu/issues"
   },
-  "homepage": "https://github.com/snEk42/system-zivocichu#readme"
+  "homepage": "https://github.com/snEk42/system-zivocichu#readme",
+  "dependencies": {
+    "better-sqlite3": "^4.1.4",
+    "bluebird": "^3.5.1",
+    "lodash": "^4.17.10",
+    "xlsx": "^0.13.4"
+  }
 }
